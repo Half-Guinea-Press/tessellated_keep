@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ideas.md",
+                "file": "Ideas and Awesomeness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Ideas.md",
+            "file": "Ideas and Awesomeness.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Ideas.md",
+            "file": "Ideas and Awesomeness.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +114,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Ideas.md"
+            "file": "Ideas and Awesomeness.md"
           }
         }
       }
@@ -123,9 +123,10 @@
   },
   "active": "73a8c1066b23455c",
   "lastOpenFiles": [
-    "Test page.md",
-    "Ideas.md",
     "Dm side.md",
-    "Index.md"
+    "Index.md",
+    "Ideas and Awesomeness.md",
+    "Session Zero.md",
+    "Test page.md"
   ]
 }
